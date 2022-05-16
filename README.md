@@ -7,7 +7,7 @@ Terms of use of PSA clearly stated that:
 
 "The statistical tables (or datasets) including documents (collectively as material) on this site are classified under Open Data with Creative Commons Attribution License (cc-by). This means that you are free to share (copy and redistribute) the material in any medium or format; remix, transform and build upon the material without any restrictions other than proper source attribution:"
 
-The project's Raw Data used can be found in the folder entitled 'Raw_Extracted_Data' in the GitHub Repository of this project. Those are the files formatted in excel (xlsx).
+The project's Raw Data used can be found in the folder entitled 'Raw_extracted_data' in the GitHub Repository of this project. Those are the files formatted in excel (xlsx).
 
 Data Source: https://openstat.psa.gov.ph/Database/Gross-Regional-Domestic-Product
 
