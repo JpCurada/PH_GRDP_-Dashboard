@@ -89,7 +89,7 @@ def compare_chart_industries(df, user_industries_choice):
                                  line=dict(width=3)))
 
 
-    fig = fig.update_layout(title=f'GRDP of Selected Industries of {user_region_choice} from 2000 - 2001',xaxis_title='Year',yaxis_title='Amount in Peso (₱)')
+    fig = fig.update_layout(title=f'GRDP of Selected Industries of {user_region_choice} from 2000 - 2021',xaxis_title='Year',yaxis_title='Amount in Peso (₱)')
     return st.plotly_chart(fig, use_container_width=True)
 
 def GDP_bar_chart(df):
