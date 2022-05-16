@@ -11,4 +11,4 @@ The project's Raw Data used can be found in the folder entitled 'Raw_extracted_d
 
 Data Source: https://openstat.psa.gov.ph/Database/Gross-Regional-Domestic-Product
 
-- John Paul M. Curada, Aspiring Data Scientist
+— John Paul M. Curada, Aspiring Data Scientist
