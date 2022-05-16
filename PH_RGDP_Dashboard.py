@@ -77,7 +77,7 @@ Data Source: https://openstat.psa.gov.ph/Database/Gross-Regional-Domestic-Produc
 ''')
 
 # --- READ THE DATA OF THE SELECTED REGION AND INDUSTRIES ---
-df = pd.read_excel('All_Regions_GRDP.xlsx', sheet_name=user_region_choice)
+df = pd.read_excel('All_Regions_GRDP.xlsx', sheet_name=user_region_choice, engine='openpyxl')
 df.rename(columns={'Unnamed: 0':'Year'},inplace=True)
 
 
