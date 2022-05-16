@@ -1,6 +1,10 @@
 # PH_GRDP_Dashboard
 This analytical dashboard will help the user gain insights about the Gross Domestic product of industries of all regions in the Philippines through visualizations and data frame.
 
+Web Dashboard: https://share.streamlit.io/jpcurada/ph_grdp_dashboard/main/PH_RGDP_Dashboard.py
+
+-----------------------------------------------------------------------------
+
 The creator of this page gives credits or acknowledgement to Philippine Statistics Authority (PSA) as the data used in this project are from their database.
 
 Terms of use of PSA clearly stated that:
